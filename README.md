@@ -36,7 +36,7 @@ It includes:
 
 ---
 
-Version_compatibility`
+`Version_compatibility`
 This folder contains files related to software and environment compatibility.
 
 It includes:
