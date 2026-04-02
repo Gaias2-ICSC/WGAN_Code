@@ -1,6 +1,6 @@
 # WGAN_Code
 
-This repository accompanies the paper:  
+This repository refers to the paper:  
 **“Generative Artificial Intelligence for Air Shower Simulation”** [[1]](#1)
 
 ---
