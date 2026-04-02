@@ -36,6 +36,15 @@ It includes:
 
 ---
 
+Version_compatibility`
+This folder contains files related to software and environment compatibility.
+
+It includes:
+- `requirements.txt`: list of Python dependencies and package versions used in the project  
+- `PythonVersion.txt`: specifies the Python version used in this work (Python 3.12.3)
+
+---
+
 📌 Notes
 - The repository is intended to support reproducibility of the results presented in [[1]](#1).
 - For full methodological details, please refer to the original publication.
