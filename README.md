@@ -54,8 +54,7 @@ It includes:
 
 References
 
-<a id="1">[1]</a>  
-C. Bozza, A. Calivà, A. De Caro, D. De Gruttola, S. De Pasquale, L.A. Fusco, G. Messuti, C. Poirè, S. Scarpetta, T. Virgili (2026).  
+<a id="1">[1]</a> C. Bozza, A. Calivà, A. De Caro, D. De Gruttola, S. De Pasquale, L.A. Fusco, G. Messuti, C. Poirè, S. Scarpetta, T. Virgili (2026).  
 *Generative Artificial Intelligence for Air Shower Simulation*.  
 **Computer Physics Communications**.  
 DOI: 10.1016/j.cpc.2026.110141
