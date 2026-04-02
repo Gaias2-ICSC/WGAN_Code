@@ -1,0 +1,14 @@
+energy range: 1e6-2e7, interaction model: 76310
+
+########## DETAILS ABOUT DATA ##########
+pxpy 16 bins: np.linspace(-4.0, 4.0, 32 + 1), grouped 2 by 2
+r 8 bins: [891250.94/np.sqrt(1.5)**_ for _ in range(16)]+[0]; binr.sort(), grouped 2 by 2
+log_pz 16 bins: np.linspace(0, 6.53, 32 + 1)
+z_bins: merged first 8; summed last 13; the other 11 are unchanged
+In ogni bin è presente [log10(PARTICLES+1) /3.9016] /1.0000 range in [0,1/1.0000]  
+
+########## DETAILS ABOUT MEATADATA ##########
+Primary_energy uniform distribution in [-2,2] for energy scaled as:
+(np.log10(ENERGY)-(np.log10(20000000)+np.log10(1000000))/2) / (np.log10(20000000)-np.log10(1000000))*4
+Starting_height normal distribution scaled as:
+((np.log10(ALTITUDE)-6.3296)/0.1591)
